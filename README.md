@@ -78,10 +78,6 @@ demo video :
 14. The app doesn't account for system-level interruptions (like phone calls) that might affect timer accuracy when the app is in the background.
 15. The UI is designed with a light theme. Dark mode support is not implemented in this version.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License.
